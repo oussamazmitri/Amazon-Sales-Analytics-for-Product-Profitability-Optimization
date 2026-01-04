@@ -1,0 +1,14 @@
+status,status_clean,status_id
+Cancelled,Cancelled,1
+Shipped - Delivered to Buyer,Delivered,2
+Shipped,In Transit,3
+Shipped - Returned to Seller,Failed,4
+Shipped - Rejected by Buyer,Failed,5
+Shipped - Lost in Transit,Failed,6
+Shipped - Out for Delivery,In Transit,7
+Shipped - Returning to Seller,In Transit,8
+Shipped - Picked Up,In Transit,9
+Pending,Pending,10
+Pending - Waiting for Pick Up,Pending,11
+Shipped - Damaged,Failed,12
+Shipping,In Transit,13

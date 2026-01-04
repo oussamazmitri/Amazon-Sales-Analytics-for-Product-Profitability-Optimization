@@ -1,0 +1,17 @@
+fulfilment,sales_channel,ship_service_level,courier_status,b2b,fulfilment_id
+Merchant,Amazon.in,Standard,unknown,False,1
+Merchant,Amazon.in,Standard,Shipped,False,2
+Amazon,Amazon.in,Expedited,Shipped,True,3
+Amazon,Amazon.in,Expedited,Shipped,False,4
+Amazon,Amazon.in,Expedited,Cancelled,False,5
+Amazon,Amazon.in,Expedited,Unshipped,False,6
+Amazon,Amazon.in,Standard,Shipped,False,7
+Amazon,Amazon.in,Standard,Cancelled,False,8
+Merchant,Amazon.in,Standard,Shipped,True,9
+Amazon,Non-Amazon,Standard,Unshipped,False,10
+Amazon,Amazon.in,Expedited,Cancelled,True,11
+Amazon,Amazon.in,Expedited,Unshipped,True,12
+Merchant,Amazon.in,Standard,unknown,True,13
+Amazon,Amazon.in,Standard,Unshipped,False,14
+Merchant,Amazon.in,Standard,Unshipped,False,15
+Merchant,Amazon.in,Standard,Unshipped,True,16
